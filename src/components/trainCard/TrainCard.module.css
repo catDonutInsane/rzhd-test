@@ -1,0 +1,18 @@
+.wrapper{
+    margin: 0 auto;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+table{
+    border-radius: 6px;
+}
+td{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
